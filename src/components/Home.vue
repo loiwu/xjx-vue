@@ -110,6 +110,7 @@
     },
     methods: {
       switchNav: function (index) {
+        console.log(11111111111);
       }
     }
   }
